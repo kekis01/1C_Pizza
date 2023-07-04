@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.16">
+	<ConfigVersions>
+		<Metadata name="CommonPicture.КартинкаЗакупки" id="12770135-48e6-4dcd-a6e9-5841e1a74710" configVersion="29490d2c6677ce41827a16963144280400000000"/>
+		<Metadata name="CommonPicture.КартинкаЗакупки.Picture" id="12770135-48e6-4dcd-a6e9-5841e1a74710.0" configVersion="bf29d761791c874793e0516db26531e300000000"/>
+		<Metadata name="Configuration.Пиццерия" id="37b1b45e-5a1d-4d28-94c2-63a22a686f1b" configVersion="9155094169c8294494ffba1c94b3739000000000"/>
+		<Metadata name="Constant.Пример" id="1684721c-5b92-4371-bf04-83f199ade703" configVersion="ad3b371935dc4a468ab8b00d9b03f2e500000000"/>
+		<Metadata name="Language.Русский" id="8d4e751f-4d12-4db4-8113-26907795fcad" configVersion="0b2c61695ec73046a170d592a355a2cc00000000"/>
+		<Metadata name="Subsystem.Закупки" id="c11cbb96-4702-4a74-af6c-e68d329bc12b" configVersion="aa2ecbed3a59ae4a8e14e94767910b6700000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
